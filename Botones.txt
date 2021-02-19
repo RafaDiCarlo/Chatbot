@@ -1,0 +1,16 @@
+Gracias por comunicarte con la Asociación Neuropsiquiátrica Argentina. Para recibir más información pulse el botón relacionado con su interés.
+
+CURSOS
+
+Ésta es la respuesta al primer botón
+
+CONGRESO
+
+Ésta es la respuesta al segundo botón
+
+EDITORIAL EDANA
+
+www.facebook.com
+
+POSTBACK0	
+POSTBACK1
